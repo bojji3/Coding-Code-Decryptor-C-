@@ -1,0 +1,1 @@
+When you try the valid key, the message will make sense. For all other keys, the message will appear as gibberish. Your program will display on the screen 100 decrypted message (using keys 1 to 100) from the original encrypted message.
